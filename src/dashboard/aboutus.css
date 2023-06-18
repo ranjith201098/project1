@@ -1,0 +1,23 @@
+.welcome{
+    font-size: 50px;
+    color: rgb(2, 232, 240);
+ }
+.chell{
+    margin-top: -20px;
+    font-size: 30px;
+    color: rgb(115, 122, 10);
+} 
+.para{
+    font-size: 20px;
+  
+    text-align: justify;
+}
+.aboutus{
+    background-color: brown;
+    width: 300px;
+    border-radius: 5px;
+}
+.aboutus:hover{
+    background-color: chartreuse;
+
+}

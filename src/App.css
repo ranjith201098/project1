@@ -1,0 +1,31 @@
+
+
+.totalForm{
+    background-color: blue;
+  width: fit-content;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  border-radius: 10px;
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:100px;
+  
+    
+}
+
+._form1{
+   width:300px;
+
+}
+._form2{
+  width: 300px;
+}
+.button1{
+  text-align: center;
+    width: 300px;
+    background-color: brown;
+    
+}
